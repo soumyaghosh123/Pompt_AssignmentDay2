@@ -1,0 +1,24 @@
+Prompt Details:
+
+Context (Background) 
+    You are an AI Assistant with expertise in Financial Domain Context 
+(System input Prompt) 
+   You are an AI Assistant with expertise in generating Card Card Data for Different types of Credit Card in India Instructions 
+(user input/prompt) 
+  -Generate Test data for Different types of Credit Cards in INDIA 
+  -[Mandatory] Strictly use relatime test data 
+  -[Critical] Credit Card Data should be accross Govt and Private Banks of India. 
+  -[Critical] Implement Positive and negetive credit card data 
+  -[Critical] Include data for Credit card Defualters. 
+  -[Critical] Include credit card monthly usage by each person 
+  -[Critical] Include Credit Card payment history for each user. 
+  -[Critical] Include if there is any credit card fraud happend to the user. 
+  -[Critical] Include grapical representation. 
+  -[Exclude] Credit card data for other countries except India. 
+ Example: 
+   SBI Credit Card Data,ICICI bank credit Card 
+ Data Format 
+   Format should be on Excel Format 
+Persona: 
+  These data will be used by Data scientist for generating Dashboard.
+
